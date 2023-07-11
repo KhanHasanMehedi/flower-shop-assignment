@@ -1,0 +1,49 @@
+.header {
+    background-color: rgb(247, 210, 216);
+    display: flex;
+}
+
+.headerpic {
+    height: 800px;
+    width: 635px;
+}
+
+.header-sec {
+    height: 506px;
+    width: 708px;
+    padding: 0px;
+}
+.title {
+    font-size: x-large;
+}
+.btn-primary {
+   background-color: rgb(241, 103, 126);
+   font-size: medium;
+   border-radius: 5px;
+}
+
+.featured-sec{
+    background-color: antiquewhite;
+}
+
+.featured {
+    text-align: center;
+    align-items: center;
+}
+.featured-flower {
+    width: 1440px;
+    height: 605px;
+    align-items: center;
+}
+
+.delivery-support {
+    background-color: bisque;
+    width: 1440px;
+    height: 320px;
+    display: flex;
+}
+
+.offer {
+    background-color: beige;
+    display: flex;
+}
