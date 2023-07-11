@@ -31,19 +31,31 @@
     align-items: center;
 }
 .featured-flower {
-    width: 1440px;
+     width: 1440px;
     height: 605px;
-    align-items: center;
+    justify-items: center;
 }
 
 .delivery-support {
     background-color: bisque;
     width: 1440px;
     height: 320px;
+    justify-content: center;
     display: flex;
 }
 
 .offer {
     background-color: beige;
-    display: flex;
+}
+.insta {
+    text-align: center;
+    align-items: center;
+}
+.last {
+    background-color: black;
+    text-align: center;
+    align-items: center;
+}
+.text-color{
+    text-decoration: aqua;
 }
