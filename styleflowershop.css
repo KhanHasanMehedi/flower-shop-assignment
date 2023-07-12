@@ -14,7 +14,8 @@
     padding: 0px;
 }
 .title {
-    font-size: x-large;
+    font-size: 3em;
+    font-weight: bold;
 }
 .btn-primary {
    background-color: rgb(241, 103, 126);
@@ -26,7 +27,13 @@
     background-color: antiquewhite;
 }
 
-.featured {
+.featured h3{
+    text-align: center;
+    align-items: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+.featured p{
     text-align: center;
     align-items: center;
 }
@@ -38,7 +45,7 @@
 
 .delivery-support {
     background-color: bisque;
-    width: 1440px;
+    width: 1040px;
     height: 320px;
     justify-content: center;
     display: flex;
@@ -55,7 +62,11 @@
     background-color: black;
     text-align: center;
     align-items: center;
+    color: rgb(186, 177, 177)
 }
-.text-color{
-    text-decoration: aqua;
+.last .text-color{
+    color:rgb(230, 62, 90);
+}
+.copyright{
+    color: rgb(101, 85, 85);
 }
